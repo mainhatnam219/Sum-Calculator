@@ -2,7 +2,6 @@
   "name": "sum-calculator",
   "version": "1.0.0",
   "description": "A simple React app that calculates the sum of two numbers",
-  "homepage": "https://mainhatnam219.github.io/Sum-Calculator",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
