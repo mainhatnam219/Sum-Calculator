@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sum-Calculator/static/css/main.b1a08e82.css",
+    "main.js": "/Sum-Calculator/static/js/main.2fe896ba.js",
+    "index.html": "/Sum-Calculator/index.html",
+    "main.b1a08e82.css.map": "/Sum-Calculator/static/css/main.b1a08e82.css.map",
+    "main.2fe896ba.js.map": "/Sum-Calculator/static/js/main.2fe896ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1a08e82.css",
+    "static/js/main.2fe896ba.js"
+  ]
+}
